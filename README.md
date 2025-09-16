@@ -28,9 +28,9 @@ GPU Acceleration: Automatically uses an NVIDIA GPU (via CUDA) if available for s
 - numpy
 
 # Download the YOLOX Model:
-Download the pre-trained yolox_l.pth model weights from the official YOLOX repository.
-Download Link for YOLOX-L [[YOLX](https://pages.github.com/](https://github.com/Megvii-BaseDetection/YOLOX?tab=readme-ov-file)
-Place the downloaded yolox_l.pth file in the root of the project directory.
+- Download the pre-trained yolox_l.pth model weights from the official YOLOX repository.
+- Download Link for YOLOX-L [YOLX](https://pages.github.com/](https://github.com/Megvii-BaseDetection/YOLOX?tab=readme-ov-file)
+- Place the downloaded yolox_l.pth file in the root of the project directory.
 
 # Keyboard Controls
 m : Switch between "YOLOX & Negative Mode" and "Mix Effect Mode".
